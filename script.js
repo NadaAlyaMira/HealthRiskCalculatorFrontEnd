@@ -24,3 +24,4 @@ document.getElementById('riskForm').addEventListener('submit', async function(ev
         console.error('There was a problem with the fetch operation:', error);
     }
 });
+
